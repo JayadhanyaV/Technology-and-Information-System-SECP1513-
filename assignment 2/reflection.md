@@ -1,3 +1,4 @@
+
 #REFLECTION
 
 The industrial visit to UTMDigital was eye-opening, bringing my theoretical understanding of technology to life in a corporate setting. Exploring their work environment showed the actual application of concepts, while discussions with employees highlighted the difficulties and significance of staying current in the digital business. Seeing collaborative efforts between high-end IT companies and business people highlighted the dynamic nature of successful tech companies.
