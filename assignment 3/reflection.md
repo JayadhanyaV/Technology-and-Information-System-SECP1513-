@@ -1,4 +1,5 @@
-#REFLECTION
+
+# REFLECTION
 
 This talk showed me how devoted I should be and the numerous skills I should gain and improve when being in the Computer Science industry.
 I need to enhance my knowledge in programming languages such as C++, Java, and Python. 
