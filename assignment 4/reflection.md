@@ -1,4 +1,5 @@
-#REFLECTION
+
+# REFLECTION
 
 The talk highlighted the integration of tech and agriculture, teaching me about innovation's practical impacts on social issues. For example, "Your Farm Next Door' underscored the complex nature of entrepreneurship and the value of sustainability.
 
